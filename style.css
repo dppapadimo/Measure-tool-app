@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  max-width: 100%;
+  touch-action: none;
+}
+
+.toolbar {
+  margin: 10px;
+}
+
+button, select, input {
+  margin: 5px;
+  padding: 6px;
+}
